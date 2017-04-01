@@ -1,4 +1,4 @@
-# Clue-CS3110-Final-Project
+# MS2 README
 
 We have included with our project a Makefile in order to make compiling and running our game very simple. The packages you will need installed are listed as below: 
 
