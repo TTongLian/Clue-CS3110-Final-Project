@@ -1,10 +1,10 @@
 # Clue-CS3110-Final-Project
 
 List of authors:
-  Drew Dunne
-  Graham Thomas Rutledge
-  Annie Yuan
-  Tongtong Lian 
+- Drew Dunne
+- Graham Thomas Rutledge
+- Annie Yuan
+- Tongtong Lian 
 
 We have included with our project a Makefile in order to make compiling and running our game very simple. The packages you will need installed are listed as below: 
 
